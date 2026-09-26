@@ -22,7 +22,7 @@
     "use-sound": "^5.0.0"
   },
   "devDependencies": {
-    "@eslint/js": "^9.39.4",
+    "@eslint/js": "^10.0.1",
     "@playwright/test": "^1.59.1",
     "@tanstack/react-query-devtools": "^5.99.0",
     "@testing-library/jest-dom": "^6.9.1",
